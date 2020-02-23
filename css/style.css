@@ -1,0 +1,22 @@
+/* Global */
+
+body {
+  margin: 0;
+  text-align: center;
+  background: #fff;
+  color: #3d3d3d;
+  font-size: 16px;
+  line-height: 1.7;
+  font-family: "Playfair Display", serif; }
+
+.page-title {
+  font-size: 60px;
+  margin: 48px 0 0 0;
+  position: relative;
+  font-family: "Roboto Condensed", sans-serif; }
+
+.section-title {
+  position: relative;
+  font-size: 36px;
+  margin: 0 0 60px 0;
+  font-family: "Roboto Condensed", sans-serif; }
